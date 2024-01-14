@@ -3,7 +3,7 @@ Autores: David Villarroya, Francho Ladaga y Jose Javier Muzas
 
 Jose Javier Muzas: He trabajado unas 12-13 horas en hacer parte del codigo
 
-Francho Ladaga: He trabajado alrededor de 10 horas para ayudar a solucionar los problemas del código y hacer la memoria técnica.
+Francho Ladaga: He trabajado alrededor de 10-11 horas para ayudar a solucionar los problemas del código y hacer la memoria técnica.
 
 David Villarolla: He trabajado aproximandamente 12 horas en hacer parte del código
 
